@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Passop – MERN Password Manager
 
 **Passop** is a secure and modern **Password Manager** built using the **MERN stack**.  
@@ -28,3 +29,7 @@ It helps users safely store, manage, and retrieve their passwords with encryptio
 
 ## 🧩 Folder Structure
 
+=======
+# passOp
+passOp is a secure and modern Password Manager built using the MERN stack. It helps users safely store, manage, and retrieve their passwords with encryption and a simple, responsive interface.
+>>>>>>> c50dd0285f9a96cf29f269517649a4c2d5721dff
