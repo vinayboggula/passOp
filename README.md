@@ -8,10 +8,10 @@ It helps users safely store, manage, and retrieve their passwords with encryptio
 
 ## 🚀 Tech Stack
 
-**Frontend:** React (Vite), HTML, CSS, JavaScript  
+**Frontend:** React (Vite), HTML,CSS(Tailwind CSS), JavaScript  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB  
-**Tools:** Axios, bcrypt, dotenv  
+**Tools:** dotenv  
 
 ---
 
